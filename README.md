@@ -25,8 +25,15 @@
   </div>
 <br clear="right">
 
+
+<div align="center">
+
+<h3>Technologies</h3>
+</div>
+
 ---
 <div align="center">
+
 
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white )
