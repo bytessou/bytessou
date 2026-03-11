@@ -59,6 +59,10 @@
 </br>
 </br>
 
+<div align="center">
+
+<h3>Statistics</h3>
+</div>
 ---
 <p align="center">
 
