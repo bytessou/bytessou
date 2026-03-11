@@ -60,7 +60,6 @@
 </br>
 
 ---
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohjs-0&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
@@ -69,5 +68,11 @@
 
 </p>
 
+---
 
+</br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
