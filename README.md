@@ -18,7 +18,7 @@
 
 ---
 
-### "L, did you know? Gods of Death love only apples" 🍎
+<h3 align="center">"L, did you know? Gods of Death love only apples" 🍎</h3>
 
 <img src="kiral.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
 
