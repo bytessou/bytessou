@@ -37,7 +37,6 @@ I am driven by pure logic and the relentless pursuit of "perfect code," flawless
 <div align="center">
   <h3>The Tools of a New World</h3>
 
-  ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
@@ -45,8 +44,11 @@ I am driven by pure logic and the relentless pursuit of "perfect code," flawless
   ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=white)
+  ![.NET CORE](https://img.shields.io/badge/.NET_CORE-000?style=for-the-badge&logo=.net&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
+  
 </div>
 
 ---
